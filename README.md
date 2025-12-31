@@ -37,8 +37,4 @@ This project demonstrates **custom Blockly blocks**, **JavaScript code generatio
 
 ---
 
-## ▶️ How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/blockly-task-workflow-builder.git
